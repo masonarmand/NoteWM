@@ -36,7 +36,7 @@
 #define TITLE_STRING_X 10
 #define TITLE_STRING_Y (TITLE_HEIGHT / 2) + 2
 
-/* cursed atom macros*/
+/* cursed atom macros, should probably change this later */
 #define _NET_WM_WINDOW_TYPE (XInternAtom(display, "_NET_WM_WINDOW_TYPE", false))
 #define _NET_WM_WINDOW_TYPE_NORMAL (XInternAtom(display, "_NET_WM_WINDOW_TYPE_NORMAL", false))
 #define _NET_WM_WINDOW_TYPE_DOCK (XInternAtom(display, "_NET_WM_WINDOW_TYPE_DOCK", false))
