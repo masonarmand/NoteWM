@@ -11,3 +11,4 @@ This project is currently a work in progress and in its current state is not int
 - Implement support for XDND
   - https://www.freedesktop.org/wiki/Specifications/XDND/
 - Finish creating custom bar application and custom application launcher. (These will have their own GitHub repositories).
+- Add support for actual user defined keybinds.
