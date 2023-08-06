@@ -3,8 +3,7 @@
 # NoteWM
 
 Simple X11 floating reparenting window manager.
-This project is currently a work in progress and is not intended to be used as a replacement
-for your current window manager.
+This project is currently a work in progress and in its current state is not intended to be used as a replacement for your window manager.
 
 ## Todo
 - Implement more support for Extended Window Manager Hints.
