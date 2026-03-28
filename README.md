@@ -1,4 +1,4 @@
-<img src='https://masonarmand.com/img/notewm.png' width="600">
+<img src='https://raw.githubusercontent.com/masonarmand/NoteWM/refs/heads/main/notewm.png' width="600">
 
 # NoteWM
 
